@@ -13,6 +13,7 @@ pipeline {
             steps {
                 echo 'test app'
             }
+            ---gtfdsvfgfd----
         }
         stage('deploy') 
         {
