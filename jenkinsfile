@@ -9,6 +9,7 @@ pipeline {
             }
         }
         stage('test') 
+        ---kkk---
         {
             steps {
                 echo 'test app'
